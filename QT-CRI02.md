@@ -1,4 +1,4 @@
-#QT-CRI02.md
+# QT-CRI02.md
 
 ## 5 rào cản tư duy phản biện:
 #### - Luôn cho mình là đúng, áp đặt tiêu chuẩn của mình cho người khác.
