@@ -1,7 +1,7 @@
 # QT-SEARCH03
 
 ### Wikipedia
-#### là một khoa toàn thư tự do , là kết quả của sự cộng tác của chính những người đọc từ khắp nơi trên thế giới. Tất cả mọi người đều có thể sửa đổi ở bất cứ trang nào bằng cách bấm vào các liên kết “sửa đổi”, hoặc “Sửa đổi trang này”, có ở hầu hết các trang, ngoại trừ các cá nhân bị tước quyền sửa đổi và những trang bị khóa.
+#### Là một khoa toàn thư tự do , là kết quả của sự cộng tác của chính những người đọc từ khắp nơi trên thế giới. Tất cả mọi người đều có thể sửa đổi ở bất cứ trang nào bằng cách bấm vào các liên kết “sửa đổi”, hoặc “Sửa đổi trang này”, có ở hầu hết các trang, ngoại trừ các cá nhân bị tước quyền sửa đổi và những trang bị khóa.
 #### Ví dụ: Bạn muốn tìm hiểu về Hình Tròn:
 #### -	Kick vào link: https://vi.wikipedia.org/wiki/Wikipedia để vào trang chủ 
 #### -	Trỏ chuột vào ô tìm kiếm gõ: Hình tròn
