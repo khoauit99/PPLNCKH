@@ -57,4 +57,41 @@
 #### – Ăn món Thái thì nên chọn quán nào ở quận 1
 #### ….
 
+### 11. Không nhớ rõ nhiều từ khóa tìm kiếm Google
+#### Với trường hợp chúng ta quên quá nhiều từ khóa trong nội dung tìm kiếm, bạn cần viết từ khóa đầu tiên, từ khóa cuối cùng lên thanh Search của Google, rồi đặt cụm từ AROUND + (số lượng gần đúng từ còn thiếu) ở giữa cụm từ khóa.
+#### Chẳng hạn tôi muốn tìm kiếm 2 câu thơ trong bài thơ Đây thôn Vĩ Dạ của Hàn Mặc Tử, nhưng không hề nhớ rõ nội dung. Vậy tôi sẽ tìm kiếm từ khóa theo công thức đã viết bên. Kết quả sẽ cho ra chính xác nội dung của 2 câu thơ đó.
+#### Ví dụ: thuyền ai đậu về around (8) tối nay
 
+### 12. Tìm từ tìm kiếm không quan trọng
+#### Để có thể loại bỏ những từ tìm kiếm không quan trọng trong kết quả, bạn chỉ cần nhập dấu - đằng sau từ khóa mà bạn cần loại bỏ là được.
+#### Ví dụ: điện thoại chính hãng fpt-mua
+
+### 13. Tìm kiếm từ khóa trong tiêu đề hoặc URL
+### Vì tiêu đề và URL là “chìa khóa” quan trọng nhất giúp bạn “tiếp cận” chính xác nhất nội dung bạn muốn tìm hiểu. Để giúp cho người dung tra cứu nhanh hơn, Google hỗ trợ cách tìm kiếm nhanh nhất với lệnh “intitle:” hoặc “inurl:”.
+### Ví dụ bạn muốn tìm kiếm các tiêu đề bài viết liên quan đến FPT Trading, bạn có thể gõ như sau : intitle:fpttrading
+### Hoặc bạn muốn tìm kiếm các bài viết trong url của FPT Trading, bạn gõ như sau : inurl:fpttrading
+
+### 14. Tìm kiếm các bài viết trong 1 khung thời gian nhất định
+#### Có thể bạn cần tìm một tài liệu nào đó nhưng không nhớ chính xác thời gian, thì có thể thay bằng tìm theo khung thời gian, từ bao lâu đến bao lâu. Điều này sẽ giúp Google dễ dàng tìm kiếm hơn. Chúng ta đặt 3 dấu chấm ở giữa 2 mốc thời gian là được.
+#### Ví dụ: tác phẩm văn học Việt Nam 1945…1954
+
+### 15. Ngăn cách bằng dấu ~
+#### Ngôn ngữ cơ bản rất đa dạng và giàu ý nghĩa. Điều này tạo ra lợi thế khi nghiên cứu, tổng hợp thông tin, tài liệu từ Google. Tìm kiếm các từ khóa được ngăn cách bằng dấu "~", không chỉ đem lại các kết quả là những từ
+#### khóa chứa nội dung đó mà còn tìm kiếm cả những từ đồng nghĩa với từ khóa mà bạn cần tìm.
+#### Ví dụ bạn tìm kiếm thông tin liên quan về FPT, bạn nên gõ là : sanphamchinhhangfpt~. Kết quả tìm kiếm sẽ hiện đầy đủ các nội dung chứa từ khóa FPT và kể cả các nội dung liên quan.
+
+### 16. Tìm kiếm kết quả từ phép tính
+#### Bạn cần thực hiện tính toán nhanh, thay vì đưa một applet Calculator, bạn chỉ có thể nhập biểu thức của bạn vào Google.
+#### Ví dụ tìm kiếm: 48512 * 1,02.
+
+### 17. Tìm kiếm loại file tài liệu
+#### Nếu bạn đang tìm kiếm để tìm kết quả thuộc loại file cụ thể, bạn có thể sử dụng filetype:. Ví dụ: bạn có thể chỉ muốn tìm các bài thuyết trình PowerPoint có liên quan inbound marketing.
+#### Ví dụ tìm kiếm: "inbound marketing" filetype: ppt
+
+### 18. Tìm kiếm tin tức trong một vị trí cụ thể
+#### Nếu bạn đang tìm kiếm tin tức liên quan đến một vị trí cụ thể, bạn có thể sử dụng location:command để tìm kiếm Google Tin tức cho những câu chuyện đến từ vị trí đó.
+#### Tìm kiếm Ví dụ: star wars location:london
+
+### 19. Tìm kiếm định nghĩa của từ
+#### Nếu bạn cần phải nhanh chóng tìm kiếm định nghĩa của từ hoặc cụm từ, chỉ cần sử dụng lệnh define: command. Bạn có thể nghe phát âm của từ bằng cách nhấn vào biểu tượng megaphone.
+#### Ví dụ Tìm kiếm: define: plethora
