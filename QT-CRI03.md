@@ -16,7 +16,7 @@
 
 - Những điều cần lưu ý.
 
-https://coursesity.com/course-detail/critical-thinking-at-university-online-course~
+  https://coursesity.com/course-detail/critical-thinking-at-university-online-course~
 
 - Cách tiếp cận và khả năng suy nghĩ chín chắn của bạn.
 
