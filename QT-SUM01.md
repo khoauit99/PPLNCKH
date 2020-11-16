@@ -49,8 +49,8 @@
 
 - Sơ đồ bố trí mạch tích hợp: 10 năm
 
-#### 6. Một số hành vi xâm phạm quyền sở hữu trí tuệ:
-Một số ví dụ:
+### 6. Một số hành vi xâm phạm quyền sở hữu trí tuệ:
+#### Một số ví dụ:
 
 - Một bài báo sao chép lại bài báo khác.
 
