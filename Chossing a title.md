@@ -1,7 +1,7 @@
 # Choosing a title
 ## Nhóm N0019
 
-###1. Vai trò của tên bài báo, đề tài?
+### 1. Vai trò của tên bài báo, đề tài?
 #### Các vai trò của việc đặt tên môt bài báo, đề tài:
 
 · Tối ưu hóa khả năng tìm kiếm
